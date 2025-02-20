@@ -1,4 +1,5 @@
 import ping3
+
 import pandas as pd
 
 namesSites = ['www.google.com', 'vk.com', 'www.ozon.ru', 'education.yandex.ru', 'xxx.ppp', 'chat.deepseek.com', 
